@@ -19,3 +19,11 @@
 # chapter09: 绘图与可视化
 
 # chapter10: 数据聚合与分组操作
+
+# chapter11: 时间序列
+
+# chapter12: 高阶pandas
+
+# chapter13: python建模库介绍
+
+# chapter14: 数据分析示例
